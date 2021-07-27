@@ -61,7 +61,7 @@ try:
         user_data = data_pull.pull_files()
         user_pivot = data_pull.transform_data(user_data)
         data_pull.create_csv(user_pivot, 'User Journey.csv')
-        
+        print("Program Successfully Finished!")
         
 except:
     print("Failed to run, check path")
