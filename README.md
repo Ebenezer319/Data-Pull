@@ -8,4 +8,6 @@ Pull using Git.
 
 There is also the option to download the folder as a zip file and extract to run as needed.
 
+When the program runs successfully you should the same response as below.
+
 ![image](https://user-images.githubusercontent.com/42072200/127093481-2c074878-c496-4108-9e38-ed5b5352f3eb.png)
