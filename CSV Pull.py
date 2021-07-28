@@ -53,7 +53,7 @@ class DataPull:
 # In[Change Path to have data pulled as ]
 
 lowercase_alphabets = list(string.ascii_lowercase)
-path = 'https://public.wiwdata.com/engineering-challenge/data/'
+
 
 try:
     
